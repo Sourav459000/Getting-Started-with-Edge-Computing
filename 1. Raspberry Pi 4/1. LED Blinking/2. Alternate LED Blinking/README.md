@@ -26,10 +26,7 @@ Alternate Blinking LED Code for Raspberry Pi 4 Model B
 4. **Run the Code:**
    - Save the Python file with an appropriate name, for example, `alternate_blink_led.py`.
    - Open the terminal and navigate to the directory where the Python file is located.
-   - Run the Python script with the following command:
-     ```
-     sudo python alternate_blink_led.py
-     ```
+   - Run the Python script.
    - The two LEDs connected to GPIO pins 18 and 17 should start blinking alternately at one-second intervals.
    - Press `Ctrl + C` to stop the script and exit.
 
