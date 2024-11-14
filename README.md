@@ -9,7 +9,7 @@ Edge computing is a paradigm where data processing is performed closer to the so
 This repository serves as a collection of basic lab projects and mini projects designed to help you get started with edge computing and AI on microcontrollers. Whether you're a hobbyist, student, or professional looking to delve into edge computing, you'll find useful resources and project ideas here.
 
 ## How to Use This Repository
-- Each project is organized into subfolders based on the microcontroller used.
+- Each project is organized into subfolders based on the level.
 - Navigate to the respective subfolder to find project-specific instructions and resources.
 - Follow the instructions provided in each project to set up your hardware, deploy the necessary software, and run the project.
 - Feel free to modify and expand upon the projects according to your interests and requirements.
